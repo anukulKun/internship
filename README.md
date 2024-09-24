@@ -24,4 +24,3 @@ To run this project locally, follow these steps:
    ```bash
    git clone https://github.com/anukulKun/internship
 
-  do npm i
